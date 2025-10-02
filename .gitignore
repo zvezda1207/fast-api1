@@ -1,0 +1,20 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+# Виртуальные окружения
+.venv/
+venv/
+env/
+env.bak/
+# Настройки IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
+# Docker
+*.log
+*.db
+docker-compose.override.yml
+# Прочее
+*.DS_Store
