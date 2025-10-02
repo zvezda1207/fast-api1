@@ -6,6 +6,7 @@ __pycache__/
 # Виртуальные окружения
 .venv/
 venv/
+.env
 env/
 env.bak/
 # Настройки IDE
